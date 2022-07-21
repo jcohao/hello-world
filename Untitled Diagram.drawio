@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T15:26:53.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UY1piibJnVVrpMFBJtwW" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T15:38:30.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="U-EcNt2JQDIRa4Ao3ajT" version="20.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1221" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1153" dy="1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -75,6 +75,48 @@
         </mxCell>
         <mxCell id="hc8-fBp4aKdV9i0aLTfq-24" value="&lt;span style=&quot;orphans: 4; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ipaas_ihub_data_service_info&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1150" y="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-25" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Lucida Console&amp;quot;, Consolas, Courier, monospace; font-size: 14.4px; orphans: 4; text-align: left; background-color: rgb(243, 244, 244);&quot;&gt;ipaas-soa-quality&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="890" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-26" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; orphans: 4; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;queryTestOrder&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;orphans: 4; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;查询穹天工单&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="880" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-27" value="&lt;span style=&quot;orphans: 4; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;IPassOrderFacade&lt;br&gt;&lt;/span&gt;&lt;/font&gt;（JSF）&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1150" y="880" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-28" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Lucida Console&amp;quot;, Consolas, Courier, monospace; font-size: 14.4px; orphans: 4; text-align: left; background-color: rgb(243, 244, 244);&quot;&gt;ipaas-soa-sdk-business-relation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="1270" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-29" value="&lt;span style=&quot;orphans: 4; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;createBusinessIDAndSDKRelationInfo&lt;br&gt;&lt;/span&gt;&lt;/font&gt;创建业务 id 与 sdk 的关系&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="1160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-30" value="&lt;span style=&quot;orphans: 4; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;queryBusinessRelationByBusinessID&lt;br&gt;&lt;/span&gt;&lt;/font&gt;查询业务 id 相关的 sdk 关系&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="1260" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-31" value="&lt;span style=&quot;orphans: 4; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;editBusinessIDAndSDKRelationInfo&lt;br&gt;&lt;/span&gt;&lt;/font&gt;更新业务 id 与 sdk 的关系&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="1360" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-32" value="&lt;span style=&quot;orphans: 4; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ipaas_business_sdk_info&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1150" y="1260" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-33" value="&lt;div style=&quot;orphans: 4; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14.4px;&quot;&gt;&lt;font face=&quot;Lucida Console, Consolas, Courier, monospace&quot; color=&quot;#333333&quot;&gt;ipaas-soa-datacenter&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="1640" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-35" value="&lt;span style=&quot;orphans: 4; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;queryIndicatorDataService&lt;br&gt;&lt;/span&gt;&lt;/font&gt;查询 ipaas 指标&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="1630" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-37" value="&lt;span style=&quot;orphans: 4; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ipaas_indicator_data_info&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1150" y="1630" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-38" value="&lt;div style=&quot;orphans: 4; text-align: left;&quot;&gt;&lt;font face=&quot;Lucida Console, Consolas, Courier, monospace&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 14.4px;&quot;&gt;ipaas-soa-attribute-config&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="1850" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-39" value="&lt;span style=&quot;orphans: 4; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;queryAttributeConfigs&lt;br&gt;&lt;/span&gt;&lt;/font&gt;查询标签库&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="1840" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hc8-fBp4aKdV9i0aLTfq-40" value="&lt;span style=&quot;orphans: 4; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ihub.attribute.config&lt;br&gt;&lt;/span&gt;&lt;/font&gt;（配置）&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1150" y="1840" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
